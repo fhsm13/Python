@@ -23,3 +23,6 @@ print(dicionario)
 #VERIFICAR ITEM DENTRO DO DICIONARIO UTILIZADO EM ESTRUTURA DE BANCO DE DADOS, BUSCA É MAIS EFICIENTE QUE LISTAS
 print(dicionario['nome'])
 print(dicionario['idade'])
+
+#INICIAR EM VAZIO
+lista = []
